@@ -16,6 +16,7 @@ body {
     line-height: 10px;
     background: url('monalisa.jpg') fixed center no-repeat;
     background-size: contain;
+    text-align: justify;
   }
   
 
