@@ -14,7 +14,7 @@ body {
   .portrait {
     font-size: 10px;
     line-height: 10px;
-    background: url('monalisa.jpg') fixed center no-repeat;
+    background: url('1.jpg') fixed center no-repeat;
     background-size: contain;
     text-align: justify;
   }
